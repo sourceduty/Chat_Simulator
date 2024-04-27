@@ -12,6 +12,8 @@ In helping users, 'Chat Simulator' not only facilitates the setup of these virtu
 [Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 <br>
 [Personality Template](https://chat.openai.com/g/g-SjVEuD3eZ-personality-template)
+<br>
+[Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
