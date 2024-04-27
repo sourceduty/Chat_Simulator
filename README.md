@@ -8,6 +8,8 @@ In helping users, 'Chat Simulator' not only facilitates the setup of these virtu
 ### Related Links
 
 [Artificial Group Chat](https://github.com/sourceduty/Artificial_Group_Chat)
+<br>
+[Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
