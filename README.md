@@ -31,6 +31,17 @@ User -> Bot 1 -> Bot 2 -> Bot 3 -> Bot 4
 
 ```
 
+Sequential Business Network Conversation
+
+```
+         GPT
+          |
+          v
+User -> Sales Bot 1 -> Sales Bot 2 -> Manager Bot 3 -> Boss Bot 4
+|                                                               |
+|---------------------------------------------------------------|
+```
+
 #
 
 Hub-and-Spoke Network Conversation
