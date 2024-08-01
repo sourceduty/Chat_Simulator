@@ -116,7 +116,7 @@ A linear bucket brigade network is a concept often used in production and logist
 
 #
 
-Conversation Network Diagram for Retail Store Communication Network
+Conversation Network Diagram for Retail Store Communication
 
 This network diagram demonstrates the internal and external communication pathways within the retail store, with a clear customer interaction channel via a single phone line that connects them to the appropriate department.
 
