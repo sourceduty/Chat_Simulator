@@ -5,6 +5,47 @@
 In helping users, 'Chat Simulator' not only facilitates the setup of these virtual scenarios but also offers guidance on optimizing the chatbots’ responses and behavior to suit specific needs. This includes tuning the chatbots for different levels of complexity, emotional intelligence, and adaptability to mimic human-like interactions more accurately. As a result, users can develop more effective communication skills, test out various conversational tactics, and prepare for real-world interactions in a controlled and safe environment. Whether for training purposes, educational applications, or personal development, 'Chat Simulator' provides a valuable resource for enhancing interaction skills through advanced and customizable chatbot technology.
 
 #
+
+Star Network Conversation
+```
+          Bot 1
+           |
+           v
+Bot 2 -> GPT -> Bot 3
+           |
+           v
+User <--> Bot 4
+```
+
+#
+
+Sequential Network Conversation
+
+```
+         GPT
+          |
+          v
+User -> Bot 1 -> Bot 2 -> Bot 3 -> Bot 4
+|                                      |
+|--------------------------------------|
+
+```
+
+#
+
+Hub-and-Spoke Network Conversation
+
+```
+       Bot 1
+         |
+         v
+User -> GPT -> Bot 2
+         |       |
+         v       v
+       Bot 3   Bot 4
+```
+
+#
 ### Related Links
 
 [Artificial Group Chat](https://github.com/sourceduty/Artificial_Group_Chat)
