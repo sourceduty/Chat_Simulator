@@ -150,13 +150,13 @@ This network diagram demonstrates the internal and external communication pathwa
       |
       ├── Human Resources
       │   ├── HR Specialist: Karen White
-      │   │   ├── Recruiter: James Thompson
-      │   │   └── Training Coordinator: Barbara Hall
+      │   ├── Recruiter: James Thompson
+      │   └── Training Coordinator: Barbara Hall
       |
       ├── IT and Support
       │   ├── IT Support: David Rodriguez
-      │   │   ├── Network Administrator: Kevin King
-      │   │   └── Help Desk Technician: Mark Wright
+      │   ├── Network Administrator: Kevin King
+      │   └── Help Desk Technician: Mark Wright
       |
       └── Finance and Accounting
           ├── Financial Analyst: Susan Allen
